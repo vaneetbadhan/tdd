@@ -1,7 +1,9 @@
 <?php
 
 namespace App\Helpers\Math;
-
+/*
+Comment for test git push success
+*/
 class ArithmeticHelper
 {
     
